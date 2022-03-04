@@ -1,0 +1,10 @@
+C:\Users\Azot\source\repos\Lab 1 NEKASOIY\bin\Debug\Lab 1 NEKASOIY.exe.config
+C:\Users\Azot\source\repos\Lab 1 NEKASOIY\bin\Debug\Lab 1 NEKASOIY.exe
+C:\Users\Azot\source\repos\Lab 1 NEKASOIY\bin\Debug\Lab 1 NEKASOIY.pdb
+C:\Users\Azot\source\repos\Lab 1 NEKASOIY\obj\Debug\Lab 1 NEKASOIY.csprojAssemblyReference.cache
+C:\Users\Azot\source\repos\Lab 1 NEKASOIY\obj\Debug\Lab_1_NEKASOIY.Form1.resources
+C:\Users\Azot\source\repos\Lab 1 NEKASOIY\obj\Debug\Lab_1_NEKASOIY.Properties.Resources.resources
+C:\Users\Azot\source\repos\Lab 1 NEKASOIY\obj\Debug\Lab 1 NEKASOIY.csproj.GenerateResource.cache
+C:\Users\Azot\source\repos\Lab 1 NEKASOIY\obj\Debug\Lab 1 NEKASOIY.csproj.CoreCompileInputs.cache
+C:\Users\Azot\source\repos\Lab 1 NEKASOIY\obj\Debug\Lab 1 NEKASOIY.exe
+C:\Users\Azot\source\repos\Lab 1 NEKASOIY\obj\Debug\Lab 1 NEKASOIY.pdb
