@@ -1,4 +1,8 @@
-﻿using System;
+﻿// Скворцов Даниил
+//      04.03 - Написана функция решения квадратного уравнения btnFindResForSecondTask()
+//      06.03 - Правки функции btnFindResForSecondTask()
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
