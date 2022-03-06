@@ -1,4 +1,8 @@
-﻿using System;
+﻿// Скворцов Даниил
+//      04.03 - Написана функция решения квадратного уравнения btnFindResForSecondTask()
+//      06.03 - Правки функции btnFindResForSecondTask()
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -75,7 +79,7 @@ namespace Lab_1_NEKASOIY
 
         public double Minus(double num1, double num2)
         {
-            return num1 - num2-8;
+            return num1 - num2;
         }
 
         private void button3_Click(object sender, EventArgs e)
@@ -194,6 +198,37 @@ namespace Lab_1_NEKASOIY
             {
                 Console.WriteLine("Del_Fail");
             }
+        }
+
+        // Решение квадратного уравнения
+        private void btnFindResForSecondTask(object sender, EventArgs e)
+        {
+            double a = Convert.ToDouble(aNum.Text);
+            double b = Convert.ToDouble(bNum.Text);
+            double c = Convert.ToDouble(cNum.Text);
+
+            double D = Minus(Mnoj(b, b), 4*Mnoj(a, c));
+            if(D >= 0)
+            {
+                double x1 = Del(Sum(-b, Math.Sqrt(D)), 2 * a);
+                double x2 = Del(Minus(-b, Math.Sqrt(D)), 2 * a);
+
+                resX1.Text = x1.ToString();
+                resX2.Text = x2.ToString();
+            } else
+            {
+                resX1.Text = resX2.Text = "Нет корней";
+            }
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox7_TextChanged(object sender, EventArgs e)
+        {
+
         }
 
 
